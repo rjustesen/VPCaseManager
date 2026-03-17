@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPCaseManager", "VPCaseManager\VPCaseManager.csproj", "{94FF54E5-B2F2-4F9D-A451-A3E860C9FAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseManagerUnitTest", "CaseManagerUnitTest\CaseManagerUnitTest.csproj", "{EF2F2281-5220-4FDC-8FF5-9F23A29248D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94FF54E5-B2F2-4F9D-A451-A3E860C9FAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FF54E5-B2F2-4F9D-A451-A3E860C9FAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FF54E5-B2F2-4F9D-A451-A3E860C9FAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FF54E5-B2F2-4F9D-A451-A3E860C9FAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2F2281-5220-4FDC-8FF5-9F23A29248D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2F2281-5220-4FDC-8FF5-9F23A29248D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2F2281-5220-4FDC-8FF5-9F23A29248D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2F2281-5220-4FDC-8FF5-9F23A29248D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A98FD5-89EA-486C-8EE2-2A8A3297429F}
+	EndGlobalSection
+EndGlobal
